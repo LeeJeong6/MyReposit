@@ -1,5 +1,5 @@
 # MyReposit
-Development of the DETR Model for Autonomous Driving
+
 
 영상을 프레임 단위로 저장해놓는게 우선입니다. ->frame_dir
 
